@@ -1,0 +1,10 @@
+[
+  {
+    "package": "bsem",
+    "oncran": true
+  },
+  {
+    "package": "spsurv",
+    "oncran": true
+  }
+]
