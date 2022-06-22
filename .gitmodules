@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "bsem"]
-	path = bsem
-	url = https://github.com/rvpanaro/bsem
-	shallow = true
-	registered = true
 [submodule "spsurv"]
 	path = spsurv
 	url = https://github.com/rvpanaro/spsurv
